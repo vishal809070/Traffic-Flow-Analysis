@@ -1,0 +1,8 @@
+ultralytics>=8.2.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+shapely>=2.0.0
+yt-dlp>=2024.4.9
+torch>=2.1; sys_platform != 'darwin' or platform_machine != 'arm64'
+
